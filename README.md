@@ -9,7 +9,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
     
-  <a href="https://tinyurl.com/RuhikaManyam"> Resume</a>
+  <a href="https://tinyurl.com/ruhika-manyam"> Resume</a>
 
 </div display="flex">
 
