@@ -11,9 +11,6 @@
     
   <a href="https://tinyurl.com/RuhikaManyam"> Resume</a>
 
-
-  <img src="https://komarev.com/ghpvc/?username=charann29&style=flat-square&color=green" alt=""/>
-
 </div display="flex">
 
 
